@@ -1,0 +1,32 @@
+//PROGRAM:To search & delete all the occurence of a number in an array
+//FILE:assign9_4.c
+//CREATED BY:SANTOSH HEMBRAM
+//DATED:23/10/19
+
+
+	#include<stdio.h>
+	int main()
+	{
+		int 	n,i,j=0,a[20],d_num;
+		printf("Enter the range[max-20]-");
+		scanf("%d",&n);
+		printf("\nEnter data to the array-");
+		for(i=0;i<n;i++)
+			scanf("%d",&a[i]);
+		printf("\nDisaply the data of the array-");
+		for(i=0;i<n;i++)
+			printf("\n%d",a[i]);
+		printf("\nWhich number you want to delete- ");
+		scanf("%d",&d_num);
+		for(i=0;i<n;i++)
+			if(a[i]==d_num && i<n)
+			{
+				for(j=i;j<n;j++)
+				a[j]=a[j+1];
+				n--;
+			}
+		printf("\nAfter deletion-");
+		for(i=0;i<n;i++)
+			printf("\n\%d",a[i]);
+		return 0;
+	}	
