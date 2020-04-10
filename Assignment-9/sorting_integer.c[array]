@@ -1,0 +1,35 @@
+//PROGRAM:To sort an integer array in asscending 
+//FILE:assign9_5.c
+//CREATED BY:SANTOSH HEMBRAM
+//DATED:23/10/19
+
+	#include<stdio.h>
+	int main()
+	{
+		int a[100],i=0,n,j=0,store;
+		printf("Enter the range[max-100]-");
+		scanf("%d",&n);
+		printf("\nEnter the data to the array- ");
+		for(i=0;i<n;i++)
+			scanf("%d",&a[i]);
+		printf("\nDisplay the data of the array-");
+			for(i=0;i<n;i++)
+			printf("\n%d",a[i]);
+		
+		for(i=0;i<n;i++)
+		{
+			for(j=i+1;j<n;j++)
+			{
+				if(a[i]>a[j])
+				{
+					store=a[i];
+					a[i]=a[j];
+					a[j]=store;
+				}
+			}
+		}
+		printf("\nDispaly the sorted array-");
+		for(i=0;i<n;i++)
+			printf("\n%d",a[i]);
+		return 0;
+	}
