@@ -1,5 +1,7 @@
 # PUC-assignments
 
+### Welcome to PUC-assignments repository.
+
 C language programs [ assignment 1st semester ]
 
 August - December [ 2017 ]
@@ -73,5 +75,5 @@ Facebook :- https://www.facebook.com/santosh.hembram.796
  
  
  ### THANKS FOR VISITING THE PAGE !!!!!
- 
+ ![](https://lwbc.org.uk/wp-content/uploads/2018/08/praying-hands-logo.png)
    
