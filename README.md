@@ -10,9 +10,8 @@ Batch :- 2019 - 2024
 
 ### Language
 
- language:
- ![alt text](https://www.google.com/search?q=c+language+logo&sxsrf=ALeKk02j4NSVJ2IUaC5hJiFUn0dWNM4f0A:1587958574201&tbm=isch&source=iu&ictx=1&fir=q6x9Kro90vm_QM%253A%252CwNn7EJm59u9VnM%252C_&vet=1&usg=AI4_-kQ-XWB_JsxsCx2l6D_aNRxc8hJNjA&sa=X&ved=2ahUKEwjMxO7V1ofpAhVC_qQKHdljDoAQ9QEwAHoECAwQJw#imgrc=q6x9Kro90vm_QM:)
-
+ ![](https://img.icons8.com/color/480/c-programming.png)
+ 
 ## INDEX
 
   [click here](https://github.com//HembramBeta777/PUC-assignments/blob/master/File__details.c/)
