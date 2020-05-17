@@ -57,8 +57,8 @@ Batch :- 2019 - 2024
  
 ## LINKS ![](https://github.com/HembramBeta777/clickable-icons-for-readmeFile/blob/master/icon_git/icons8-connect-48.png?raw=true)
 
-![](https://github.com/HembramBeta777/clickable-icons-for-readmeFile/blob/master/icon_git/icons8-instagram-40.png?raw=true) :- https://Instagram.com/hembram_beta
-
+![https://Instagram.com/hembram_beta
+](https://github.com/HembramBeta777/clickable-icons-for-readmeFile/blob/master/icon_git/icons8-instagram-40.png?raw=true) :- 
 ![](https://github.com/HembramBeta777/clickable-icons-for-readmeFile/blob/master/icon_git/icons8-facebook-50.png?raw=true) :- https://www.facebook.com/santosh.hembram.796
 
 ## Help ![](https://github.com/HembramBeta777/clickable-icons-for-readmeFile/blob/master/icon_git/icons8-help-50.png?raw=true)
