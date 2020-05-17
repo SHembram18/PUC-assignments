@@ -12,9 +12,9 @@ Batch :- 2019 - 2024
 
 ### Language
 
- ![](https://img.icons8.com/color/480/c-programming.png)
+ ![](https://github.com/HembramBeta777/clickable-icons-for-readmeFile/blob/master/icon_git/icons8-c-programming-96.png?raw=true)
  
-## INDEX
+## INDEX ![](https://github.com/HembramBeta777/clickable-icons-for-readmeFile/blob/master/icon_git/icons8-folder-tree-96.png?raw=true)
 
   [click here](https://github.com//HembramBeta777/PUC-assignments/blob/master/File__details.c/)
   
@@ -27,8 +27,7 @@ Batch :- 2019 - 2024
   
  + [Tutorialspoint](https://www.tutorialspoint.com/)
   
-### Compiler/Editor used
-
+### Compiler/Editor used ![](https://github.com/HembramBeta777/clickable-icons-for-readmeFile/blob/master/icon_git/icons8-edit-30.png?raw=true)
  + [GCC](https://gcc.gnu.org/) compiler
  
  + [gedit](https://www.gedit.org/) ( A source code editor)
@@ -38,7 +37,7 @@ Batch :- 2019 - 2024
  + [GNU GENERAL PUBLIC LICENSE](https://github.com/HembramBeta777/PUC-assignments/blob/master/LICENSE/)
   
 ### About OS
-  #### Vmware Workstation
+  #### Vmware Workstation ![](https://github.com/HembramBeta777/clickable-icons-for-readmeFile/blob/master/icon_git/icons8-virtual-machine-50.png?raw=true)
   
   Version :- 10.0.0 build-1295980
   
@@ -48,7 +47,7 @@ Batch :- 2019 - 2024
   
   OS Family :- [Linux](https://www.linux.org/)
   
-### CentOS
+### CentOS ![](https://github.com/HembramBeta777/clickable-icons-for-readmeFile/blob/master/icon_git/icons8-operating-system-48.png?raw=true)
 
  Release 6.5(final)
  
@@ -56,13 +55,13 @@ Batch :- 2019 - 2024
  
  GNOME 2.28.2
  
-## LINKS
+## LINKS ![](https://github.com/HembramBeta777/clickable-icons-for-readmeFile/blob/master/icon_git/icons8-connect-48.png?raw=true)
 
-Instagram :- https://Instagram.com/hembram_beta
+![](https://github.com/HembramBeta777/clickable-icons-for-readmeFile/blob/master/icon_git/icons8-instagram-40.png?raw=true) :- https://Instagram.com/hembram_beta
 
-Facebook :- https://www.facebook.com/santosh.hembram.796
+![](https://github.com/HembramBeta777/clickable-icons-for-readmeFile/blob/master/icon_git/icons8-facebook-50.png?raw=true) :- https://www.facebook.com/santosh.hembram.796
 
-## Help
+## Help ![](https://github.com/HembramBeta777/clickable-icons-for-readmeFile/blob/master/icon_git/icons8-help-50.png?raw=true)
 ### To debugging the error in the program
 
   [Diptesh Choudhury](https://www.facebook.com/diptesh.choudhory)
@@ -75,5 +74,5 @@ Facebook :- https://www.facebook.com/santosh.hembram.796
  
  
  ### THANKS FOR VISITING THE PAGE !!!!!
- ![](https://lwbc.org.uk/wp-content/uploads/2018/08/praying-hands-logo.png)
+ ![](https://github.com/HembramBeta777/clickable-icons-for-readmeFile/blob/master/icon_git/icons8-pray-60.png?raw=true)
    
